@@ -1,6 +1,8 @@
-# Elatoolv3
-This is a multi-purpose tool that is written with mostly Ai.
-
+<div align="center">
+<h1>Elatool v3</h1>
+<h3>This is a multi-purpose tool that is written with mostly Ai.</h3>
+Discord: <a href="https://discord.com/invite/Dp7wdwMRHy">discord</a><br>
+</div>
 
 
 
