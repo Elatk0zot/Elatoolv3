@@ -18,6 +18,7 @@ You are allowed to:
 use
 share
 modify
+
 This project entirely or partially for free and even commercially. However, please consider the following:
 
 You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated) application.
