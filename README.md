@@ -1,5 +1,5 @@
 # Elatoolv3
-This is a multi-purpose tool that is only written using ai.
+This is a multi-purpose tool that is written with mostly Ai.
 
 
 
